@@ -1,0 +1,3 @@
+#!/bin/sh
+# The application is run in server port 8090. To change this go to: src/main/resources/application.properties
+./mvnw spring-boot:run
